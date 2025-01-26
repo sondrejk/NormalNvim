@@ -33,7 +33,6 @@ If you are new here don't forget to [check the wiki](https://github.com/NormalNv
 
 ### Clone manually (Linux/MacOS/WSL)
 ```sh
-# Strongly recommended: Fork the repo and clone YOUR fork.
 git clone https://github.com/sondrejk/NormalNvim.git ~/.config/nvim
 ```
 
